@@ -1,22 +1,23 @@
 <h2 align="center">🤙 Olá 👾 Bem vindo ao meu perfil 🎓 Aqui compartilho alguns estudos</h2>
 
-<div style="display: inline_block">
-    <img align="left" height="250" src="https://media.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif"><br><br><br><br>
-    <a href="mailto:brunoviniciuspaese@gmail.com">
-    <img align="right" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    <a href ="https://www.linkedin.com/in/bruno-vin%C3%ADcius-paese-a21943255/" >
-    <img align="right" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    <a href ="https://www.instagram.com/bruno.paese/">
-    <img align="right" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    <br>
-    <br>
-    <a href ="">
-    <img align="right" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
-    <a href ="">
-    <img align="right" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"> 
+<div align="center">
+    <img height="250" src="https://media.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif">
 </div>
 
-<br><br><br><br><br><br><div align="center">
+<div align="center">
+    <a href="mailto:brunoviniciuspaese@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <a href ="https://www.linkedin.com/in/bruno-vin%C3%ADcius-paese-a21943255/" >
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <a href ="https://www.instagram.com/bruno.paese/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <a href =""> <br>
+    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+    <a href ="">
+    <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"> 
+</div>
+
+<div align="center">
     <a href ="https://github.com/BrunoPaese">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoPaese&show_icons=true&rank_icon=github&theme=dark#gh-dark-mode-only">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoPaese&show_icons=true&theme=dark">
