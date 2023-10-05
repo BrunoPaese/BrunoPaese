@@ -4,6 +4,8 @@
     <img height="250" src="https://media.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif">
 </div>
 
+<br>
+
 <div align="center">
     <a href="mailto:brunoviniciuspaese@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
@@ -16,6 +18,8 @@
     <a href ="">
     <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"> 
 </div>
+
+<br>
 
 <div align="center">
     <a href ="https://github.com/BrunoPaese">
