@@ -45,8 +45,7 @@
     <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
-![Snake animation](https://github.com/BrunoPaese/BrunoPaese/blob/output/github-contribution-grid-snake.svg)
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=BrunoPaese&repo=BrunoPaese&theme=react)](https://github.com/BrunoPaese/BrunoPaese)
+![snake gif](https://github.com/BrunoPaese/BrunoPaese/blob/output/github-contribution-grid-snake.svg)
 
 
 
