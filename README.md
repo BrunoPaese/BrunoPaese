@@ -8,15 +8,15 @@
 
 <div align="center">
     <a href="mailto:brunoviniciuspaese@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     <a href ="https://www.linkedin.com/in/bruno-vin%C3%ADcius-paese-a21943255/" >
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img alt="linkedIn"src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     <a href ="https://www.instagram.com/bruno.paese/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     <a href ="https://spotify.link/kRSI1odsFDb"> <br>
-    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
-    <a href ="https://id.sonyentertainmentnetwork.com/id/management_ca/?gated=true&pr_referer=cam&entry=psn_profile&cid=f9daab92-9bee-4802-8498-f555f365171e#/p?cid=4b52347c-7322-4f96-97aa-15835aee1b12&entry=psn_profile&state=cam_127cab32ff98b2b545261dfa3d6165f">
-    <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"> 
+    <img alt="spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+    <a href ="https://id.sonyentertainmentnetwork.com/id/management_ca/?entry=p&pr_referer=cam&cid=f9daab92-9bee-4802-8498-f555f365171e#/p/personal_info/list?cid=fb670951-31cc-4cf4-9372-db43d87dad2c&entry=p&state=cam_ab5eb6f575f2949612252e147b27b768">
+    <img alt="playstation" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"> 
 </div>
 
 <br>
