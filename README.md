@@ -16,7 +16,7 @@
     <a href ="https://spotify.link/kRSI1odsFDb"> <br>
     <img alt="spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
     <a href ="https://id.sonyentertainmentnetwork.com/id/management_ca/?entry=p&pr_referer=cam&cid=f9daab92-9bee-4802-8498-f555f365171e#/p/personal_info/list?cid=fb670951-31cc-4cf4-9372-db43d87dad2c&entry=p&state=cam_ab5eb6f575f2949612252e147b27b768">
-    <img alt="playstation" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"> 
+    <img alt="playstation" src=""> 
 </div>
 
 <br>
