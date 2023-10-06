@@ -13,9 +13,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     <a href ="https://www.instagram.com/bruno.paese/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    <a href =""> <br>
+    <a href ="https://spotify.link/kRSI1odsFDb"> <br>
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
-    <a href ="">
+    <a href ="https://id.sonyentertainmentnetwork.com/id/management_ca/?gated=true&pr_referer=cam&entry=psn_profile&cid=f9daab92-9bee-4802-8498-f555f365171e#/p?cid=4b52347c-7322-4f96-97aa-15835aee1b12&entry=psn_profile&state=cam_127cab32ff98b2b545261dfa3d6165f">
     <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"> 
 </div>
 
