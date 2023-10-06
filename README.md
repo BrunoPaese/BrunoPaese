@@ -10,12 +10,11 @@
     <a href="mailto:brunoviniciuspaese@gmail.com">
     <img alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     <a href ="https://www.linkedin.com/in/bruno-vin%C3%ADcius-paese-a21943255/" >
-    <img alt="linkedIn"src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img alt="linkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     <a href ="https://www.instagram.com/bruno.paese/">
     <img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     <a href ="https://spotify.link/kRSI1odsFDb"> <br>
     <img alt="spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
-    <a href ="">
     <img alt="playstation" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"> 
 </div>
 
