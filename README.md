@@ -50,7 +50,7 @@
 </div>
 
 <div align="center">
-    ![Snake animation](https://github.com/BrunoPaese/BrunoPaese/blob/output/github-contribution-grid-snake.svg)
+    ![snake gif](https://github.com/BrunoPaese/BrunoPaese/blob/output/github-contribution-grid-snake.gif)
 </div>
 
 
