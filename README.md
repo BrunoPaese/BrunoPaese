@@ -50,8 +50,7 @@
 </div>
 
 <div align="center">
-    
-    ![snake gif](https://github.com/BrunoPaese/BrunoPaese/blob/output/github-contribution-grid-snake.gif)
+    <img alt="snake" src="https://github.com/BrunoPaese/BrunoPaese/blob/output/github-contribution-grid-snake.gif"/>
 </div>
 
 
