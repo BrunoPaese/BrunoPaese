@@ -34,7 +34,7 @@
     <a href ="https://github.com/BrunoPaese">
     <img height="98em" src="https://github-readme-stats.vercel.app/api/pin/?username=BrunoPaese&repo=screen_sound2&theme=dark">
     <a href ="https://github.com/BrunoPaese">
-    <img height="98em" src="https://github-readme-stats.vercel.app/api/pin/?username=BrunoPaese&repo=cardapio&theme=dark">
+    <img height="98em" src="https://github-readme-stats.vercel.app/api/pin/?username=BrunoPaese&repo=storage_system&theme=dark">
 </div>
 
 
